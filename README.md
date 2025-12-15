@@ -138,5 +138,5 @@ Diversos para administrar o bot e ter controle sobre ele.
 ## 🙏 Agradecimentos
 
 * A minha mãe e o meu pai que me fizeram com muito amor
-* [´[VICTOR](https://github.com/victorsouzaleal)`] - Pelo codigo base do bot
+* [´[VictorSouzaLeal](https://github.com/victorsouzaleal)`] - Pelo codigo base do bot
 * [`WhiskeySockets/Baileys`](https://github.com/WhiskeySockets/Baileys) - Por disponibilizar a biblioteca Baileys e dar suporte no Discord principalmente a nós brasileiros.
